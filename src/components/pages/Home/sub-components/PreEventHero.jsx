@@ -55,8 +55,8 @@ const PreEventHero = (props) => {
             <h3>Coming Soon</h3>
 
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ac
-                metus elementum, sollicitudin enim ut, elementum purus.{" "}
+                {/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ac
+                metus elementum, sollicitudin enim ut, elementum purus.{" "} */}
             </p>
 
             <Countdown date={dateOfEvent} renderer={renderCountdownTimer} />
